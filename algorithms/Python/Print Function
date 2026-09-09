@@ -1,6 +1,6 @@
-
-
-
+# Problem: Print Function
+# Link: https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
+# Difficulty: Easy
 
 if __name__ == '__main__':
     n = int(input())
