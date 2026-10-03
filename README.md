@@ -13,11 +13,9 @@ over excuses: just steady, visible effort.
 - Current focus: <e.g. strings, lists, recursion>
 
 ## Structure
-problem-solving-journey/
-├── algorithms/
-│   └── Python/      (my HackerRank solutions)
-├── .gitignore
-└── README.md
+- `algorithms/Python/`: my HackerRank solutions, one file per problem
+- `.gitignore`: files Git should ignore
+- `README.md`: this file
 
 
 ## Topics covered
